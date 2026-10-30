@@ -8,7 +8,7 @@
 
 ## Sobre mim
 
-Venho da área de biomedicina, mas o que eu sempre quis de verdade foi trabalhar com tecnologia. Desde criança gosto muito de computador, e o que mais me chama atenção hoje é a possibilidade de construir um programa que resolva um problema do dia a dia, meu ou de outras pessoas, e que deixe tarefas repetitivas mais fáceis de fazer.
+Venho da área de biomedicina, mas o que eu sempre quis de verdade foi trabalhar com tecnologia. Desde criança, sempre me interessei por programação e o que mais me chama atenção hoje é a possibilidade de construir programas que resolvam problemas do dia a dia, meu ou de outras pessoas, e que deixe tarefas repetitivas mais fáceis de fazer.
 
 Estou aprendendo Python e SQL na prática, construindo projetos e registrando a evolução nos commits. Meu olhar de laboratório, acostumado com lote, validade e rastreabilidade, acabou virando o tema do meu projeto atual.
 
