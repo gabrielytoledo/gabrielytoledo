@@ -31,9 +31,6 @@ Sistema de controle de estoque feito em Python, com cadastro de produtos, histó
 
 [Ver o projeto no GitHub](https://github.com/gabrielytoledo/sistema-estoque-restaurantes)
 
-## Linguagens mais usadas
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielytoledo&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E6EDF3" alt="Linguagens mais usadas por Gabriely" />
 
 ## Contato
 
